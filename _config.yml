@@ -1,0 +1,28 @@
+name: Mary Lou Hogan
+favicon: null
+layout_spectrum: 0.7074413178488612
+typography_spectrum: 0.19126454391516745
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4981679746415466
+  lightness: 0.7635903980117291
+  saturation: 0.4902503928169608
+  rhythmicContrast: 0.41097023896873
+purpose: []
