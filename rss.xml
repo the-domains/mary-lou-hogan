@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mary Lou Hogan]]></title>
         <description><![CDATA[Mary Lou Hogan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mary-lou-hogan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 19:19:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 18:21:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mary-lou-hogan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ca83c3c-76b2-4c9c-963e-819ff8dd3045.jpg">]]></description>
+            <link>https://thegrid.ai/mary-lou-hogan/hello-my-name-is-mary-lou-hogan-and-i-am-a-freelance-photog/index.html</link>
+            <guid isPermaLink="false">96d51d22-0050-4099-8759-9479c09b184a</guid>
+            <pubDate>Tue, 12 Apr 2016 18:21:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dogs - part of the family.]]></title>
             <description><![CDATA[<article><h1>Dogs - part of the family.</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25fd48590f9ab94ba6c6a9238fe5c7f717714e7a.jpg"></article>]]></description>
-            <link>undefineddogs-part-of-the-family/index.html</link>
+            <link>https://thegrid.ai/mary-lou-hogan/dogs-part-of-the-family/index.html</link>
             <guid isPermaLink="false">d701e8f7-2345-4bf1-b1a5-5f5aefb86133</guid>
             <pubDate>Thu, 31 Mar 2016 19:19:07 GMT</pubDate>
         </item>
